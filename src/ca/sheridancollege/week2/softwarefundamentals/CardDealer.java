@@ -14,6 +14,9 @@ public class CardDealer
     public static void main(String[] args)
     {
         Card nineClubs = new Card("Clbs", 9);
+        
         nineClubs.setSuit("diamonds");
+        System.out.println(obj);//print the object
+        
     }
 }

@@ -14,6 +14,7 @@ public class CardDealer
     public static void main(String[] args)
     {
         Card obj = new Card("Diamond", 9);
+        Card 2ndObj  = new Card("Hearts, 9);
         Card nineClubs = new Card("Clbs", 9);
         
         nineClubs.setSuit("diamonds");
